@@ -21,7 +21,7 @@ A group of villagers seeks family members gone mysteriously silent after accepti
 
 # Important Note on Tone
 Gameplay in the Dungeon Crawl Classics Role Playing Game starts at 0 level: untrained, uneducated peasants. ***Most of these characters die pitiful deaths*** in a dungeon. Don’t get attached. Characters that survive their first dungeon, then choose classes, and become worth remembering
-Logistics & Requirements
+# Logistics & Requirements
 
 # Tech Requirements
 **External Microphone (Essential):** This is an audio-only podcast; good audio quality is paramount. You don't need a top-of-the-line studio mic, but a serviceable external USB microphone (or similar) that provides clear audio is a must. (No headset mics or laptop built-in mics, please.)
