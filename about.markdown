@@ -17,7 +17,7 @@ As a game master, my focus is on player agency and world reactivity. Your choice
 Whether you're here to enjoy the stories I help bring to life or looking for inspiration to tell your own, this space is for you. I'm part of **Looking for Mom**, a group of creators passionate about celebrating the tabletop RPG hobby in all its forms. Through the games we play and the content we share, we aim to show that anyone can play, anyone can create, and that **every game, every table, is valid, meaningful, and fun in its own way.**
 
 <div style="text-align: center; margin: 0px 0;">
-  <img src="/assets/images/hobo_black.png" alt="About us" style="max-width: 60%; object-fit: cover;">
+  <img src="/assets/images/begginer.png" alt="About us" style="max-width: 60%; object-fit: cover;">
 </div>
 ---
 *We're all just beginners at different things!*
