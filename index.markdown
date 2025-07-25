@@ -8,7 +8,7 @@ permalink: /
 
 ## What You'll Find Here
 
-This is your hub for learning, growing, and connecting with others on similar journeys.
+This is your hub for  growing, and connecting with others on similar journeys.
 
 ### **My Mission**
 Through the games I play and the stories we share, I want to celebrate the idea that anyone can play, anyone can create, and that every table—no matter the system, style, or experience level—is valid, meaningful, and worth having fun at. Whether you're watching an actual play, reading a blog post, or just curious about TTRPGs, this is a space that embraces the joy of discovery and the power of play.
