@@ -21,18 +21,32 @@
 title: The Begginer Experience
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog documenting the journey of learning new technologies, programming,
-  and sharing beginner-friendly tutorials and experiences.
+  A TTRPG space where every game matters and everyone belongs.
+  Stories, play, and discovery—from one curious mind to another.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thebegginerexperience.github.io" # the base hostname & protocol for your site
 
 # Social media usernames (these create footer icons automatically)
 # twitter_username: your_twitter_handle
-# github_username: thebegginerexperience
+github_username: thebegginerexperience
 # linkedin_username: your_linkedin
 # youtube_username: your_youtube_channel
 # instagram_username: your_instagram
 # discord_username: your_discord  # Not supported by default in Minima
+
+# Multiple YouTube channels
+youtube_channels:
+  - username: "@TheBegginnerExperience" 
+    name: "The Begginner Experience"
+  - username: "@YourSecondChannel"
+    name: "Second Channel"
+
+# Multiple Discord servers
+discord_servers:
+  - invite: "https://discord.gg/your-server-invite"
+    name: "Main Discord"
+  - invite: "https://discord.gg/your-second-server"
+    name: "Community Discord"
 
 # Build settings
 theme: minima
