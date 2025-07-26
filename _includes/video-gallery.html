@@ -1,0 +1,17 @@
+<div class="video-gallery">
+  {% for video in site.data.videos %}
+    <div class="video-item">
+      <a href="{{ video.url }}" target="_blank" class="video-link" rel="noopener">
+        <img 
+          src="https://img.youtube.com/vi/{{ video.id }}/maxresdefault.jpg" 
+          alt="{{ video.title }}"
+          class="video-thumbnail"
+          loading="lazy"
+        >
+        <div class="video-overlay"></div>
+        <div class="play-button" aria-label="Play video"></div>
+        <div class="video-title">{{ video.title }}</div>
+      </a>
+    </div>
+  {% endfor %}
+</div>

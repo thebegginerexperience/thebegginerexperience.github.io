@@ -1,11 +1,14 @@
-//---
-// Only the main Sass file needs front matter (the dashes are enough)
-//---
+---
+---
+
+// Custom variables (override Minima defaults) - MUST come before @import
+$brand-color: #ff6b6b;
+$content-width: 800px; // Keep original Minima default width
 
 @import "minima";
 @import "custom";
 
-// Custom styles below this line
+// Additional custom styles
 .custom-class {
   color: #ff6b6b;
   
@@ -37,7 +40,3 @@
     fill: currentColor;
   }
 }
-
-// Custom variables (override Minima defaults)
-$brand-color: #ff6b6b;
-$content-width: 1000px;
