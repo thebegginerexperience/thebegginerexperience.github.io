@@ -61,7 +61,7 @@ Note: This does not mean you are in the cast just yet.
 Shooting to officially get started mid-August and record the adventure in two or three sessions.
 
 # How to Apply
-Follow this link to sign up: 
+Follow this link to sign up: <a href="https://docs.google.com/forms/d/e/1FAIpQLSejtZslGB7wT0E2Y41R_uFvUvJaM-Q4ZfEXSfbhdu9dXxGodQ/viewform?usp=header" target="_blank">Casting Call Sign-Up Form</a>
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/casting_call/shit.jpg " alt="shit" style="width: 200px; height: auto; border-radius: 8px;">
