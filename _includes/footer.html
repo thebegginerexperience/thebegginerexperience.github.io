@@ -21,6 +21,9 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
+        {%- if site.email -%}
+        <p> <a href="mailto:{{ site.email }}"><span class="icon icon--email">{%- include icon-email.svg -%}</span> <span class="username">{{ site.email }}</span></a></p>
+        {%- endif -%}
       </div>
     </div>
 

@@ -10,10 +10,10 @@ $content-width: 800px; // Keep original Minima default width
 
 // Additional custom styles
 .custom-class {
-  color: #ff6b6b;
-  
+  color: $brand-color;
+
   &:hover {
-    color: #ff5252;
+    color: darken($brand-color, 10%);
   }
 }
 
@@ -38,5 +38,18 @@ $content-width: 800px; // Keep original Minima default width
     height: 16px;
     vertical-align: middle;
     fill: currentColor;
+  }
+}
+
+// Email icon styling (for footer)
+.icon--email {
+  display: inline-block;
+  vertical-align: middle;
+  
+  svg {
+    width: 16px;
+    height: 16px;
+    fill: currentColor; // Use brand color (red)
+    vertical-align: middle;
   }
 }
