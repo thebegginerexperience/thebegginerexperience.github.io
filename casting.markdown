@@ -33,7 +33,7 @@ Looking for brave souls to join our tabletop adventures! Choose your path:
            onmouseout="this.style.transform='scale(1)'">
       <h3 style="margin-top: 15px; color: #ff6b6b;">Course to the golden BUG</h3>
     </a>
-    <p style="max-width: 500px; margin: 0 auto; color: #666;">Join our ongoing adventures in the world of Pirate Borg!</p>
+    <p style="max-width: 500px; margin: 0 auto; color: #666;">Olivier Levasseur, the infamous pirate known as La Buse,plundered the seas and amassed one of the greatest treasure hoards in history. As the noose tightened around his neck, La Buse hurled a necklace into the jeering crowd. On it hung a tiny glass vial containing a cryptic parchment. “My treasure to he who can understand…*</p>
   </div>
 
 </div>

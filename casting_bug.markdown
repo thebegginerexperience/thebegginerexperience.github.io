@@ -7,24 +7,43 @@ permalink: /casting_bug/
 I'm seeking players to join me for **Course to the golden Bug**, a ttrpg actual-play stream, a monthly series using the **Pirate Borg** system.
 
 ## About Pirate Borg
-DCC RPG is a fast-paced, open-feeling rules set that allows for epic game experiences without unnecessary tethers. It uses modern gameplay while paying homage to the origins of role-playing and the fun that inspired it.
+A scurvy-ridden, rules light, art heavy tabletop RPG.
+Inspired by history, fantasy, horror and rum. Your cutlass & flintlock won’t save you from the hordes of skeletons, the Kraken, or even your own crew. PIRATE BORG is a complete game based on and compatible with the award -winning MÖRK BORG RPG. But it’s also a tool kit. Most of the tables can be hacked and used with any tabletop RPG.
+
 
 ***Arghh!!***
 
-*You’re a pirate!!, a tight-lipped warlock guarding long-dead secrets. You seek gold and glory, winning it with sword and spell, caked in the blood and filth of the weak, the dark, the demons, and the vanquished. There are treasures to be won deep underneath, and you shall have them.
-Return to the glory days of fantasy with the Dungeon Crawl Classics Role-Playing Game. Adventure as 1974 intended you to, with modern rules grounded in the origins of sword & sorcery. Fast play, cryptic secrets, and a mysterious past await you…*
+*Find a ship. Recruit some crew. Raid, pillage, plunder, and otherwise pilfer your weasley black guts out. Get a bigger ship. Kill some things. Upgrade your ship. Sneak into a fort. Raid a port. Acquire treasure. Bury said treasure. Become infamous. Search for someone else’s treasure. Flee in terror from unfathomable creatures from the deep. Drink all of the rum. Die on the high seas. Roll a new character and do it all again.*
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/assets/images/casting_call/cob_hill.jpg" alt="Cob Hill" style="width: 400px; height: auto; border-radius: 8px;">
+  <img src="/assets/images/casting_call/pirate borg.png" alt="Cob Hill" style="width: 400px; height: auto; border-radius: 8px;">
 </div>
 
 ## Our Story
-This adventure takes place on Cob Hill, in the environs of an old manor house with a dark past and an uncertain future. Two supernatural forces, one an ancient goddess of nature and the other a malignant force of Chaos, vie for power on the manor’s grounds, each seeking mortals to spread their influence and ensure their survival.
+Olivier Levasseur, the infamous pirate known as La Buse, The Buzzard, plundered the seas and amassed one of the greatest treasure hoards in history. Jewels, gold, forbidden relics… enough wealth to drown a king.
+Before his execution, as the noose tightened around his neck, La Buse hurled a necklace into the jeering crowd. On it hung a tiny glass vial containing a cryptic parchment. His final words echoed across the square:
 
-A group of villagers seeks family members gone mysteriously silent after accepting new positions at Cob Hill Manor, a place long abandoned but recently inhabited by Morto Blango, a distant relative of the original owner, who was allegedly Zatharides The Black, a legendary adventurer and wizard who was known before his untimely death to dabble in life magics and, if the dark rumors are true… necromancy.
+*“My treasure to he who can understand…”*
+
+For years, hunters, scholars, madmen, and cutthroats have pursued the riddle of La Buse’s lost fortune. None has claimed to have found it...
+
+Now it’s your turn.
+
+Will you unlock the code?
+Will you seize the Buzzard’s gold?
+Or will the same fate that claimed La Buse drag you to the depths?
+
+**La Buse’s treasure awaits—if you dare.**
 
 # Important Note on Tone
-Gameplay in the Dungeon Crawl Classics Role Playing Game starts at 0 level: untrained, uneducated peasants. ***Most of these characters die pitiful deaths*** in a dungeon. Don’t get attached. Characters that survive their first dungeon, then choose classes, and become worth remembering
+In Pirate Borg, you don’t start as legendary captains or feared buccaneers.
+You start as drunken deckhands, starving castaways, gutter-born scum, and press-ganged nobodies.
+
+***Most of you will die screaming.***
+Some will drown.
+Others will be shot, stabbed, cursed, or fed to things with far too many teeth.
+
+*Don’t grow fond of your character. The sea won’t.*
 
 ## Logistics & Requirements
 
@@ -57,11 +76,11 @@ Note: This does not mean you are in the cast just yet.
 **Step 4:** Once the cast is set, we'll schedule our Session 0 to kick things off.
 
 # How to Apply
-Follow this link to sign up: <a href="https://docs.google.com/forms/d/e/1FAIpQLSejtZslGB7wT0E2Y41R_uFvUvJaM-Q4ZfEXSfbhdu9dXxGodQ/viewform?usp=header" target="_blank">Casting Call Sign-Up Form</a>
+Follow this link to sign up: <a href="https://forms.gle/3vFMvhnvX8adHYDh8" target="_blank">Casting Call Sign-Up Form</a>
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/assets/images/casting_call/shit.jpg " alt="shit" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="/assets/images/casting_call/the gold bug.png" alt="shit" style="width: 200px; height: auto; border-radius: 8px;">
 </div>
 ---
 
-*"The best time to plant a tree was 20 years ago. The second best time is now."*
+*“The finest day to set sail was a lifetime past. The next best is the moment yer boots hit the deck.”*
