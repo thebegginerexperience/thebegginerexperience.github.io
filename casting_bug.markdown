@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Casting Call
-permalink: /casting/
+permalink: /casting_bug/
 ---
 
-I'm seeking four talented players to join me for **Funnel Me Once, Shame on You** *(Funnel me twice? I'm probably dead.)*, a high-quality, actual-play audio podcast mini-series using the **Dungeon Crawl Classics** system.
+I'm seeking players to join me for **Course to the golden Bug**, a ttrpg actual-play stream, a monthly series using the **Pirate Borg** system.
 
-## About Dungeon Crawl Classics
+## About Pirate Borg
 DCC RPG is a fast-paced, open-feeling rules set that allows for epic game experiences without unnecessary tethers. It uses modern gameplay while paying homage to the origins of role-playing and the fun that inspired it.
 
-***You’re no hero.***
+***Arghh!!***
 
-*You’re an adventurer: a reaver, a cutpurse, a heathen-slayer, a tight-lipped warlock guarding long-dead secrets. You seek gold and glory, winning it with sword and spell, caked in the blood and filth of the weak, the dark, the demons, and the vanquished. There are treasures to be won deep underneath, and you shall have them.
+*You’re a pirate!!, a tight-lipped warlock guarding long-dead secrets. You seek gold and glory, winning it with sword and spell, caked in the blood and filth of the weak, the dark, the demons, and the vanquished. There are treasures to be won deep underneath, and you shall have them.
 Return to the glory days of fantasy with the Dungeon Crawl Classics Role-Playing Game. Adventure as 1974 intended you to, with modern rules grounded in the origins of sword & sorcery. Fast play, cryptic secrets, and a mysterious past await you…*
 
 <div style="text-align: center; margin: 30px 0;">
@@ -29,25 +29,22 @@ Gameplay in the Dungeon Crawl Classics Role Playing Game starts at 0 level: untr
 ## Logistics & Requirements
 
 # Tech Requirements
-**External Microphone (Essential):** This is an audio-only podcast; good audio quality is paramount. You don't need a top-of-the-line studio mic, but a serviceable external USB microphone (or similar) that provides clear audio is a must. (No headset mics or laptop built-in mics, please.)
+**External Microphone (Essential):** good audio quality is paramount. You don't need a top-of-the-line studio mic, but a serviceable external USB microphone (or similar) that provides clear audio is a must. (No headset mics or laptop built-in mics, please.)
 
-**Webcam:** only the audio will be recorded for the podcast; we will use webcams during our sessions. This helps immensely with reading body language, visual cues, and generally makes for a more connected and engaging remote play experience.
-Recording & Platforms: Discord for meetup and main communication, backup recording, and Audacity for offline recording.
+**Webcam:** we will use webcams during our sessions.
 
-**Recording & Platforms:** Discord for meetup and main communication, backup recording, and Audacity for offline recording.
+**Recording & Platforms:** Discord for meetup and main communication. Streaming to YouTube.
 
 # Game Details
-**System:** Dungeon Crawl Classics
+**System:** Pirate Borg
 
-**Day / Time:** Fridays at 9:30pm EST
+**Day / Time:** Third weekend of each month
 
-**Frequency:** Every other week
+**Frequency:** Once a month
 
 **Session Duration:** 3 to 3.5 hours (with a break in the middle)
 
 **Players Needed:** 4 players
-
-*We´ll record the whole adventure in two or three sessions and then I'll edit to publish*
 
 ## Casting Process
 **Step 1:** Fill out the sign-up form linked below.
@@ -58,7 +55,6 @@ Note: This does not mean you are in the cast just yet.
 **Step 3:** After a successful vibe check, you'll receive an official invitation to the cast!
 
 **Step 4:** Once the cast is set, we'll schedule our Session 0 to kick things off.
-Shooting to officially get started mid-August and record the adventure in two or three sessions.
 
 # How to Apply
 Follow this link to sign up: <a href="https://docs.google.com/forms/d/e/1FAIpQLSejtZslGB7wT0E2Y41R_uFvUvJaM-Q4ZfEXSfbhdu9dXxGodQ/viewform?usp=header" target="_blank">Casting Call Sign-Up Form</a>
